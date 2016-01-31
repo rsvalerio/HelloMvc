@@ -1,0 +1,12 @@
+# Created by .ignore support plugin (hsz.mobi)
+### MonoDevelop template
+#User Specific
+*.userprefs
+*.usertasks
+
+#Mono Project Files
+*.pidb
+*.resources
+test-results/
+
+.idea
